@@ -1,4 +1,4 @@
-package org.example.behavioral.templateMethod;
+package org.example.behavioral.template_method;
 
 public class Main {
     public static void main(String[] args) {
